@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-read -p "Please enter your username" username
+read -p "Please enter your username: " username
 read -p "Please enter token: " token
 read -p "Which repo would you like to use: " repo
 
